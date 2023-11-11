@@ -1,13 +1,12 @@
-package spring5webapp;
+package guru.springframework.petclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.springframework.test.context.ContextConfiguration;
+import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
-@ContextConfiguration
-// TODO @SpringBootTest(classes = )
+@SpringBootTest
 public class Spring5webappApplicationTests {
 
     @Test
