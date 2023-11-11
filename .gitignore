@@ -111,6 +111,8 @@ Desktop.ini
 ######################
 /bin/
 /deploy/
+/pet-clinic-data/target/
+/pet-clinic-web/target/
 
 ######################
 # Logs
